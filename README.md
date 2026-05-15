@@ -1,16 +1,15 @@
-# 🤖 AI 早报
+# 🤖 AI早报归档
 
-每日自动生成的 AI 新闻早报，由 Hermes Agent 抓取并推送。
+每日AI新闻精选，由 Hermes 自动生成。
 
-## 📋 最新报告
+## 最新报告
 
-- [2026-05-13.md](https://github.com/changzhenlin/ainews/blob/main/reports/2026-05-13.md)
-- [2026-05-12.md](https://github.com/changzhenlin/ainews/blob/main/reports/2026-05-12.md)
-- [2026-05-11.md](https://github.com/changzhenlin/ainews/blob/main/reports/2026-05-11.md)
-
-## 📁 归档
-
-所有历史报告保存在 [](https://github.com/changzhenlin/ainews/tree/main/reports) 目录下。
+- [2026-05-15](reports/2026-05-15.md)
+- [2026-05-14](reports/2026-05-14.md)
+- [2026-05-13](reports/2026-05-13.md)
+- [2026-05-12](reports/2026-05-12.md)
+- [2026-05-11](reports/2026-05-11.md)
 
 ---
-*本仓库由 Hermes Agent 自动维护*
+*数据来源：TechCrunch / Tavily AI Search*
+
